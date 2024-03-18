@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Danijel Osovnikar</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
-- 🔭 I’m currently working on [Clock-App](https://github.com/DanijelOsovnikar/Clock-App)
+- 🔭 I’m currently working on [EasyBank](https://github.com/DanijelOsovnikar/EasyBank)
 
 - 🌱 I’m currently learning **Course: The Web Developer Bootcamp 2024**
 
 - 👨‍💻 All of my projects are available at [Github repositories ...](Github repositories ...)
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **danijel.osovnikar@gmail.com**
 
